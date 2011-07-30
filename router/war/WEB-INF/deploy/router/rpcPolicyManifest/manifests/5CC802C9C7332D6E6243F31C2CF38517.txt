@@ -1,0 +1,2 @@
+serviceClass: com.ber.router.client.GreetingService
+path: 494391BF506EB87DB358F2882634FCC6.gwt.rpc
